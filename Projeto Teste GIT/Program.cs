@@ -12,6 +12,8 @@ namespace Projeto_Teste_GIT
         {
             Console.WriteLine("Teste");
 
+            Console.WriteLine(" Vamos Testar");
+
             Console.ReadKey();
         }
     }
